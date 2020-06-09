@@ -1,0 +1,42 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/Quarkus-Firebase-Auth-Medium-UI/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.9.0",
+    "@testing-library/react": "^10.2.1",
+    "@testing-library/user-event": "^11.3.2",
+    "firebase": "^7.15.0",
+    "firebaseui": "^4.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-firebaseui": "^4.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "clean-site": "rimraf docs",
+    "move-site": "mv build docs || move build docs",
+    "deploy": "npm run clean-site && npm run build && npm run move-site"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
