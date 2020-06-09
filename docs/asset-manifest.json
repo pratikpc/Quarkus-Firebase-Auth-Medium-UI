@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Quarkus-Firebase-Auth-Medium-UI/static/css/main.170cd3cd.chunk.css",
+    "main.js": "/Quarkus-Firebase-Auth-Medium-UI/static/js/main.6c1da88c.chunk.js",
+    "main.js.map": "/Quarkus-Firebase-Auth-Medium-UI/static/js/main.6c1da88c.chunk.js.map",
+    "runtime-main.js": "/Quarkus-Firebase-Auth-Medium-UI/static/js/runtime-main.d0428aeb.js",
+    "runtime-main.js.map": "/Quarkus-Firebase-Auth-Medium-UI/static/js/runtime-main.d0428aeb.js.map",
+    "static/js/2.435abba4.chunk.js": "/Quarkus-Firebase-Auth-Medium-UI/static/js/2.435abba4.chunk.js",
+    "static/js/2.435abba4.chunk.js.map": "/Quarkus-Firebase-Auth-Medium-UI/static/js/2.435abba4.chunk.js.map",
+    "index.html": "/Quarkus-Firebase-Auth-Medium-UI/index.html",
+    "precache-manifest.4e2b0f0fbcf719cfc02139e329ef4f83.js": "/Quarkus-Firebase-Auth-Medium-UI/precache-manifest.4e2b0f0fbcf719cfc02139e329ef4f83.js",
+    "service-worker.js": "/Quarkus-Firebase-Auth-Medium-UI/service-worker.js",
+    "static/css/main.170cd3cd.chunk.css.map": "/Quarkus-Firebase-Auth-Medium-UI/static/css/main.170cd3cd.chunk.css.map",
+    "static/js/2.435abba4.chunk.js.LICENSE.txt": "/Quarkus-Firebase-Auth-Medium-UI/static/js/2.435abba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0428aeb.js",
+    "static/js/2.435abba4.chunk.js",
+    "static/css/main.170cd3cd.chunk.css",
+    "static/js/main.6c1da88c.chunk.js"
+  ]
+}
